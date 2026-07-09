@@ -1,0 +1,5 @@
+
+Usage: yt-dlp.exe [OPTIONS] URL [URL...]
+
+yt-dlp.exe: error: You must provide at least one URL.
+Type yt-dlp --help to see a list of all options.
